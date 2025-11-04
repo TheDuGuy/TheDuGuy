@@ -1,59 +1,52 @@
-# 👋 Hey, I'm Edou Mota
+# Hi, I'm Edou Mota 👋
 
-**Senior Growth Marketer | Marketing Automation Manager | Product Marketing Leader**
+## Marketing Automation & CRM Specialist
 
-Based in Greater London, UK 🇬🇧 | Originally from São Tomé and Príncipe 🏝️
+I'm a results-driven marketing automation professional with 10+ years of experience building data-driven lifecycle campaigns for global brands including **Shopify** and **M&S**. I specialize in turning customer data into actionable engagement strategies that drive retention and growth.
 
-## 🚀 About Me
+### 🚀 What I Do
 
-I'm passionate about building products that drive business growth and deliver exceptional user experiences. With a background spanning **product marketing, RevOps, and growth strategy**, I bridge the gap between technical teams and business outcomes.
+- **Marketing Automation:** SFMC (Journey Builder, Automation Studio, Email Studio), HubSpot, SendGrid
+- **Technical Implementation:** HTML/CSS, JavaScript, SQL, AMPscript, Liquid templating
+- **Lifecycle Marketing:** Customer journey mapping, behavioral segmentation, A/B testing
+- **Data & Analytics:** BigQuery, Looker, SQL query optimization, cohort analysis
 
-Currently driving marketplace adoption and building best-in-class content at **Handshake**. Previously shaped product marketing from the ground up at **Contiamo** and drove digital transformation initiatives at **Cisco**.
+### 💼 Experience Highlights
 
-### 🌍 My Journey
-- 🏝️ Born in **São Tomé and Príncipe**
-- 🇵🇹 Raised in **Lisbon, Portugal**
-- 🇬🇧 Now based in **Greater London, UK**
+- 📧 Managed **9M+ merchant** email automation program at Shopify
+- 📊 Delivered **15+ weekly campaigns** to **2M+ subscribers** at M&S
+- ⚡ Built automated workflows reducing manual work by **40%**
+- 🎯 Improved campaign performance: **+12% open rates, +18% CTR, +9% conversions**
 
-This multicultural background has shaped my perspective on building products that resonate with diverse, global audiences.
+### 🛠️ Tech Stack
 
-## 💡 What I Do
+**Marketing Automation:** Salesforce Marketing Cloud • HubSpot • SendGrid • Marketo • Braze
+**Languages & Tools:** SQL • HTML/CSS • JavaScript • AMPscript • Liquid • YAML
+**Analytics:** BigQuery • Looker • Tableau • Amplitude • Mixpanel
+**Development:** React • Vite • Tailwind CSS • Git
 
-- **Product Marketing** - Go-to-market strategy, positioning, messaging, and competitive analysis
-- **Growth & RevOps** - Lifecycle marketing, automation, and data-driven decision making
-- **Cross-functional Leadership** - Bridging product, sales, marketing, and customer success
-- **Technical Storytelling** - Translating complex concepts into compelling narratives
+### 🔧 Featured Projects
 
-## 🛠️ Tech Stack & Tools
+#### [Multi-Channel Automation Flow Builder](https://github.com/TheDuGuy/email-sequence-visualiser-)
+A visual workflow builder for designing email, SMS, and push notification sequences. Built with React and React Flow to help marketing teams plan complex multi-channel campaigns.
 
-```javascript
-const skills = {
-  languages: ['JavaScript', 'Python', 'HTML/CSS'],
-  frameworks: ['React', 'Tailwind CSS'],
-  tools: ['Git', 'Figma', 'Notion'],
-  marketing: ['HubSpot', 'Salesforce', 'Segment', 'Mixpanel'],
-  automation: ['Zapier', 'Make', 'APIs'],
-  analytics: ['Google Analytics', 'Amplitude', 'SQL']
-}
-```
+**[Live Demo](https://email-sequence-visualiser.vercel.app)** | Built with React, React Flow, Tailwind CSS
 
-## 🎯 Current Focus
+#### [Interactive Portfolio](https://github.com/TheDuGuy/interactive-cv)
+Personal portfolio website showcasing my marketing automation experience with animated timeline, skills showcase, and project gallery.
 
-- 🔭 Building automation tools for RevOps workflows
-- 🌱 Learning more about modern web development and AI applications
-- 👯 Looking to collaborate on projects at the intersection of marketing, product, and code
-- 💬 Ask me about product marketing, growth strategy, or go-to-market execution
+**[View Live](https://edou-mota-interactive-cv.vercel.app)** | Built with React, Framer Motion, Tailwind CSS
 
-## 📫 Let's Connect
+### 📫 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/edou-mota-b6489a27](https://www.linkedin.com/in/edou-mota-b6489a27/)
-- 📧 Email: edou.mota@me.com
-- 🌐 Portfolio: [Coming soon!]
+- 💼 [LinkedIn](https://linkedin.com/in/edoumota)
+- 🌐 [Portfolio](https://edou-mota-interactive-cv.vercel.app)
+- 📧 edou.mota@me.com
 
-## 🎾 When I'm Not Working
+### 📈 GitHub Stats
 
-Tennis enthusiast 🎾 | Biking with the kids 🚴 | DIY & Woodworking 🔨 | Movie buff 🎬
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDuGuy&show_icons=true&theme=tokyonight)
 
 ---
 
-⭐️ From [TheDuGuy](https://github.com/TheDuGuy)
+💡 **Currently:** Open to Marketing Automation Manager, CRM Lead, or Lifecycle Marketing roles where technical expertise meets strategic thinking.
